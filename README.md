@@ -1,1 +1,1 @@
-# odin-rock-paper-scissors
+Project created following the curriculum of The Odin Project. This project is the first of the JavaScript section and it will be a playable simulator of the game "Rock, Paper, Scissors".
